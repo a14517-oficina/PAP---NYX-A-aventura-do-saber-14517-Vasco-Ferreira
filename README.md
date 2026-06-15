@@ -18,4 +18,4 @@ Este repositório contém o código-fonte e os recursos do videojogo educativo *
 ## ⚙️ Tecnologias
 - Motor de Jogo: Unity Engine
 - Linguagem: C#
-- Persistência: Ficheiros Locais JSON / PlayerPrefs (Sem dependência de base de dados externa)
+- Persistência: PlayerPrefs (Sem dependência de base de dados externa)
